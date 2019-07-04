@@ -15,3 +15,10 @@ In this project, we try to detect the motion of an object in an image using Luca
 ![state1](input_images/Urban2/urban01.png)  ![state2](input_images/Urban2/urban02.png)
 
 ![Motion_vector](output/ps4-4-b-1.png)
+
+## Frame Interpolation:
+Interpolation of intermediate frames from 3 input frames:
+
+![state1](input_images/MiniCooper/mc01.png)  ![state2](input_images/MiniCooper/mc02.png) ![state2](input_images/MiniCooper/mc03.png)
+
+![Motion_vector](output/output/output.gif)

@@ -6,5 +6,5 @@ In this project, we try to detect the motion of an object in an image using Luca
 	
 ## Outputs
 Small shifts demo:
-![state1](input_images/TestSeqscheme/Shift0.png)  ![state2](input_images/TestSeqscheme/ShiftR2.png)
+![state1](input_images/TestSeq/Shift0.png)  ![state2](input_images/TestSeq/ShiftR2.png)
 ![Motion_vector](output/ps4-1-a-1.png)
